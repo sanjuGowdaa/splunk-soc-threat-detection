@@ -199,7 +199,7 @@ splunk-soc-threat-detection/
 ## 👤 Author
 
 **Sanju K S**
-- Network Support Executive → Aspiring SOC Analyst
+- SOC Analyst
 - GitHub: [@sanjuGowdaa](https://github.com/sanjuGowdaa)
 - Location: Bangalore, India
 
